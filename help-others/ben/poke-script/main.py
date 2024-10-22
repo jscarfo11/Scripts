@@ -11,7 +11,7 @@ def main():
     driver = webdriver.Firefox()
     print("Driver created")
         # go to the google home page
-    driver.get("https://pokemondb.net/pokedex/stats/gen3")
+    driver.get("https://pokemondb.net/pokedex/stats/gen1")
     driver.implicitly_wait(2)
 
     table = driver.find_element(By.XPATH, "//table[@id='pokedex']")
@@ -38,6 +38,8 @@ def main():
             name = "Nidoran-m"
         elif name == "Mr.":
             name= "Mr-mime"
+        elif name == "Farfetch'd":
+            name = "Farfetchd"
         elif name == "Castform":
             if castform:
                 continue
@@ -54,6 +56,17 @@ def main():
             mon_gender = driver.find_element(By.XPATH, "//h2[text()='Breeding']/following-sibling::table[@class='vitals-table']//tr[2]/td/span[@class='text-blue']").text
         except NoSuchElementException:
             mon_gender = -1
+
+
+        abilities = driver.find_element(By.XPATH, "//th[text()='Abilities']/following-sibling::td").text
+        if "2." in abilities:
+            ability1, ability2 = abilities.split("2.")
+            ability1 = ability1.split("1.")[1].strip()
+            ability2 = ability2.strip().split("\n")[0]
+        else:
+            ability1 = abilities.split("1.")[1].strip().split("\n")[0]
+            ability2 = ability1
+
         mon = {
             "name": name,
             "number": int(mon_info[0]),
@@ -65,13 +78,15 @@ def main():
             "Sp. Def": mon_stats[ind + 5],
             "Speed": mon_stats[ind + 6],
             "Male Gender Ratio": mon_gender,
+            "Ability 1": ability1,
+            "Ability 2": ability2,
         }
         list_mons[int(mon_info[0])] = mon
 
         if deoxys:
             break
 
-    with open("pokemon-stats-gen3.json", "w+") as f:
+    with open("pokemon-stats-gen1-abilites.json", "w+") as f:
         json.dump(list_mons, f, indent=4)
 
     print(list_mons)

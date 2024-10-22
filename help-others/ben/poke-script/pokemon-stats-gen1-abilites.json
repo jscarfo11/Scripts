@@ -10,8 +10,8 @@
         "Sp. Def": "65",
         "Speed": "45",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Overgrow\nChlorophyll (hidden ability)",
-        "Ability 2": "Overgrow\nChlorophyll (hidden ability)"
+        "Ability 1": "Overgrow",
+        "Ability 2": "Overgrow"
     },
     "2": {
         "name": "Ivysaur",
@@ -24,8 +24,8 @@
         "Sp. Def": "80",
         "Speed": "60",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Overgrow\nChlorophyll (hidden ability)",
-        "Ability 2": "Overgrow\nChlorophyll (hidden ability)"
+        "Ability 1": "Overgrow",
+        "Ability 2": "Overgrow"
     },
     "3": {
         "name": "Venusaur",
@@ -38,8 +38,8 @@
         "Sp. Def": "100",
         "Speed": "80",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Overgrow\nChlorophyll (hidden ability)",
-        "Ability 2": "Overgrow\nChlorophyll (hidden ability)"
+        "Ability 1": "Overgrow",
+        "Ability 2": "Overgrow"
     },
     "4": {
         "name": "Charmander",
@@ -52,8 +52,8 @@
         "Sp. Def": "50",
         "Speed": "65",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Blaze\nSolar Power (hidden ability)",
-        "Ability 2": "Blaze\nSolar Power (hidden ability)"
+        "Ability 1": "Blaze",
+        "Ability 2": "Blaze"
     },
     "5": {
         "name": "Charmeleon",
@@ -66,8 +66,8 @@
         "Sp. Def": "65",
         "Speed": "80",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Blaze\nSolar Power (hidden ability)",
-        "Ability 2": "Blaze\nSolar Power (hidden ability)"
+        "Ability 1": "Blaze",
+        "Ability 2": "Blaze"
     },
     "6": {
         "name": "Charizard",
@@ -80,8 +80,8 @@
         "Sp. Def": "85",
         "Speed": "100",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Blaze\nSolar Power (hidden ability)",
-        "Ability 2": "Blaze\nSolar Power (hidden ability)"
+        "Ability 1": "Blaze",
+        "Ability 2": "Blaze"
     },
     "7": {
         "name": "Squirtle",
@@ -94,8 +94,8 @@
         "Sp. Def": "64",
         "Speed": "43",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Torrent\nRain Dish (hidden ability)",
-        "Ability 2": "Torrent\nRain Dish (hidden ability)"
+        "Ability 1": "Torrent",
+        "Ability 2": "Torrent"
     },
     "8": {
         "name": "Wartortle",
@@ -108,8 +108,8 @@
         "Sp. Def": "80",
         "Speed": "58",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Torrent\nRain Dish (hidden ability)",
-        "Ability 2": "Torrent\nRain Dish (hidden ability)"
+        "Ability 1": "Torrent",
+        "Ability 2": "Torrent"
     },
     "9": {
         "name": "Blastoise",
@@ -122,8 +122,8 @@
         "Sp. Def": "105",
         "Speed": "78",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Torrent\nRain Dish (hidden ability)",
-        "Ability 2": "Torrent\nRain Dish (hidden ability)"
+        "Ability 1": "Torrent",
+        "Ability 2": "Torrent"
     },
     "10": {
         "name": "Caterpie",
@@ -136,8 +136,8 @@
         "Sp. Def": "20",
         "Speed": "45",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Shield Dust\nRun Away (hidden ability)",
-        "Ability 2": "Shield Dust\nRun Away (hidden ability)"
+        "Ability 1": "Shield Dust",
+        "Ability 2": "Shield Dust"
     },
     "11": {
         "name": "Metapod",
@@ -164,8 +164,8 @@
         "Sp. Def": "80",
         "Speed": "70",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Compound Eyes\nTinted Lens (hidden ability)",
-        "Ability 2": "Compound Eyes\nTinted Lens (hidden ability)"
+        "Ability 1": "Compound Eyes",
+        "Ability 2": "Compound Eyes"
     },
     "13": {
         "name": "Weedle",
@@ -178,8 +178,8 @@
         "Sp. Def": "20",
         "Speed": "50",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Shield Dust\nRun Away (hidden ability)",
-        "Ability 2": "Shield Dust\nRun Away (hidden ability)"
+        "Ability 1": "Shield Dust",
+        "Ability 2": "Shield Dust"
     },
     "14": {
         "name": "Kakuna",
@@ -206,8 +206,8 @@
         "Sp. Def": "80",
         "Speed": "75",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Swarm\nSniper (hidden ability)",
-        "Ability 2": "Swarm\nSniper (hidden ability)"
+        "Ability 1": "Swarm",
+        "Ability 2": "Swarm"
     },
     "16": {
         "name": "Pidgey",
@@ -221,7 +221,7 @@
         "Speed": "56",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Keen Eye",
-        "Ability 2": "Tangled Feet\nBig Pecks (hidden ability)"
+        "Ability 2": "Tangled Feet"
     },
     "17": {
         "name": "Pidgeotto",
@@ -235,7 +235,7 @@
         "Speed": "71",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Keen Eye",
-        "Ability 2": "Tangled Feet\nBig Pecks (hidden ability)"
+        "Ability 2": "Tangled Feet"
     },
     "18": {
         "name": "Pidgeot",
@@ -249,7 +249,7 @@
         "Speed": "101",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Keen Eye",
-        "Ability 2": "Tangled Feet\nBig Pecks (hidden ability)"
+        "Ability 2": "Tangled Feet"
     },
     "19": {
         "name": "Rattata",
@@ -263,7 +263,7 @@
         "Speed": "72",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Run Away",
-        "Ability 2": "Guts\nHustle (hidden ability)"
+        "Ability 2": "Guts"
     },
     "20": {
         "name": "Raticate",
@@ -277,7 +277,7 @@
         "Speed": "97",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Run Away",
-        "Ability 2": "Guts\nHustle (hidden ability)"
+        "Ability 2": "Guts"
     },
     "21": {
         "name": "Spearow",
@@ -290,8 +290,8 @@
         "Sp. Def": "31",
         "Speed": "70",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Keen Eye\nSniper (hidden ability)",
-        "Ability 2": "Keen Eye\nSniper (hidden ability)"
+        "Ability 1": "Keen Eye",
+        "Ability 2": "Keen Eye"
     },
     "22": {
         "name": "Fearow",
@@ -304,8 +304,8 @@
         "Sp. Def": "61",
         "Speed": "100",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Keen Eye\nSniper (hidden ability)",
-        "Ability 2": "Keen Eye\nSniper (hidden ability)"
+        "Ability 1": "Keen Eye",
+        "Ability 2": "Keen Eye"
     },
     "23": {
         "name": "Ekans",
@@ -319,7 +319,7 @@
         "Speed": "55",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Intimidate",
-        "Ability 2": "Shed Skin\nUnnerve (hidden ability)"
+        "Ability 2": "Shed Skin"
     },
     "24": {
         "name": "Arbok",
@@ -333,7 +333,7 @@
         "Speed": "80",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Intimidate",
-        "Ability 2": "Shed Skin\nUnnerve (hidden ability)"
+        "Ability 2": "Shed Skin"
     },
     "25": {
         "name": "Pikachu",
@@ -346,8 +346,8 @@
         "Sp. Def": "50",
         "Speed": "90",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Static\nLightning Rod (hidden ability)",
-        "Ability 2": "Static\nLightning Rod (hidden ability)"
+        "Ability 1": "Static",
+        "Ability 2": "Static"
     },
     "26": {
         "name": "Raichu",
@@ -360,8 +360,8 @@
         "Sp. Def": "80",
         "Speed": "110",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Static\nLightning Rod (hidden ability)",
-        "Ability 2": "Static\nLightning Rod (hidden ability)"
+        "Ability 1": "Static",
+        "Ability 2": "Static"
     },
     "27": {
         "name": "Sandshrew",
@@ -374,8 +374,8 @@
         "Sp. Def": "30",
         "Speed": "40",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Sand Veil\nSand Rush (hidden ability)",
-        "Ability 2": "Sand Veil\nSand Rush (hidden ability)"
+        "Ability 1": "Sand Veil",
+        "Ability 2": "Sand Veil"
     },
     "28": {
         "name": "Sandslash",
@@ -388,8 +388,8 @@
         "Sp. Def": "55",
         "Speed": "65",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Sand Veil\nSand Rush (hidden ability)",
-        "Ability 2": "Sand Veil\nSand Rush (hidden ability)"
+        "Ability 1": "Sand Veil",
+        "Ability 2": "Sand Veil"
     },
     "29": {
         "name": "Nidoran-f",
@@ -403,7 +403,7 @@
         "Speed": "41",
         "Male Gender Ratio": "0% male",
         "Ability 1": "Poison Point",
-        "Ability 2": "Rivalry\nHustle (hidden ability)"
+        "Ability 2": "Rivalry"
     },
     "30": {
         "name": "Nidorina",
@@ -417,7 +417,7 @@
         "Speed": "56",
         "Male Gender Ratio": "0% male",
         "Ability 1": "Poison Point",
-        "Ability 2": "Rivalry\nHustle (hidden ability)"
+        "Ability 2": "Rivalry"
     },
     "31": {
         "name": "Nidoqueen",
@@ -431,7 +431,7 @@
         "Speed": "76",
         "Male Gender Ratio": "0% male",
         "Ability 1": "Poison Point",
-        "Ability 2": "Rivalry\nSheer Force (hidden ability)"
+        "Ability 2": "Rivalry"
     },
     "32": {
         "name": "Nidoran-m",
@@ -445,7 +445,7 @@
         "Speed": "50",
         "Male Gender Ratio": "100% male",
         "Ability 1": "Poison Point",
-        "Ability 2": "Rivalry\nHustle (hidden ability)"
+        "Ability 2": "Rivalry"
     },
     "33": {
         "name": "Nidorino",
@@ -459,7 +459,7 @@
         "Speed": "65",
         "Male Gender Ratio": "100% male",
         "Ability 1": "Poison Point",
-        "Ability 2": "Rivalry\nHustle (hidden ability)"
+        "Ability 2": "Rivalry"
     },
     "34": {
         "name": "Nidoking",
@@ -473,7 +473,7 @@
         "Speed": "85",
         "Male Gender Ratio": "100% male",
         "Ability 1": "Poison Point",
-        "Ability 2": "Rivalry\nSheer Force (hidden ability)"
+        "Ability 2": "Rivalry"
     },
     "35": {
         "name": "Clefairy",
@@ -487,7 +487,7 @@
         "Speed": "35",
         "Male Gender Ratio": "25% male",
         "Ability 1": "Cute Charm",
-        "Ability 2": "Magic Guard\nFriend Guard (hidden ability)"
+        "Ability 2": "Magic Guard"
     },
     "36": {
         "name": "Clefable",
@@ -501,7 +501,7 @@
         "Speed": "60",
         "Male Gender Ratio": "25% male",
         "Ability 1": "Cute Charm",
-        "Ability 2": "Magic Guard\nUnaware (hidden ability)"
+        "Ability 2": "Magic Guard"
     },
     "37": {
         "name": "Vulpix",
@@ -514,8 +514,8 @@
         "Sp. Def": "65",
         "Speed": "65",
         "Male Gender Ratio": "25% male",
-        "Ability 1": "Flash Fire\nDrought (hidden ability)",
-        "Ability 2": "Flash Fire\nDrought (hidden ability)"
+        "Ability 1": "Flash Fire",
+        "Ability 2": "Flash Fire"
     },
     "38": {
         "name": "Ninetales",
@@ -528,8 +528,8 @@
         "Sp. Def": "100",
         "Speed": "100",
         "Male Gender Ratio": "25% male",
-        "Ability 1": "Flash Fire\nDrought (hidden ability)",
-        "Ability 2": "Flash Fire\nDrought (hidden ability)"
+        "Ability 1": "Flash Fire",
+        "Ability 2": "Flash Fire"
     },
     "39": {
         "name": "Jigglypuff",
@@ -543,7 +543,7 @@
         "Speed": "20",
         "Male Gender Ratio": "25% male",
         "Ability 1": "Cute Charm",
-        "Ability 2": "Competitive\nFriend Guard (hidden ability)"
+        "Ability 2": "Competitive"
     },
     "40": {
         "name": "Wigglytuff",
@@ -557,7 +557,7 @@
         "Speed": "45",
         "Male Gender Ratio": "25% male",
         "Ability 1": "Cute Charm",
-        "Ability 2": "Competitive\nFrisk (hidden ability)"
+        "Ability 2": "Competitive"
     },
     "41": {
         "name": "Zubat",
@@ -570,8 +570,8 @@
         "Sp. Def": "40",
         "Speed": "55",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Inner Focus\nInfiltrator (hidden ability)",
-        "Ability 2": "Inner Focus\nInfiltrator (hidden ability)"
+        "Ability 1": "Inner Focus",
+        "Ability 2": "Inner Focus"
     },
     "42": {
         "name": "Golbat",
@@ -584,8 +584,8 @@
         "Sp. Def": "75",
         "Speed": "90",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Inner Focus\nInfiltrator (hidden ability)",
-        "Ability 2": "Inner Focus\nInfiltrator (hidden ability)"
+        "Ability 1": "Inner Focus",
+        "Ability 2": "Inner Focus"
     },
     "43": {
         "name": "Oddish",
@@ -598,8 +598,8 @@
         "Sp. Def": "65",
         "Speed": "30",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Chlorophyll\nRun Away (hidden ability)",
-        "Ability 2": "Chlorophyll\nRun Away (hidden ability)"
+        "Ability 1": "Chlorophyll",
+        "Ability 2": "Chlorophyll"
     },
     "44": {
         "name": "Gloom",
@@ -612,8 +612,8 @@
         "Sp. Def": "75",
         "Speed": "40",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Chlorophyll\nStench (hidden ability)",
-        "Ability 2": "Chlorophyll\nStench (hidden ability)"
+        "Ability 1": "Chlorophyll",
+        "Ability 2": "Chlorophyll"
     },
     "45": {
         "name": "Vileplume",
@@ -626,8 +626,8 @@
         "Sp. Def": "90",
         "Speed": "50",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Chlorophyll\nEffect Spore (hidden ability)",
-        "Ability 2": "Chlorophyll\nEffect Spore (hidden ability)"
+        "Ability 1": "Chlorophyll",
+        "Ability 2": "Chlorophyll"
     },
     "46": {
         "name": "Paras",
@@ -641,7 +641,7 @@
         "Speed": "25",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Effect Spore",
-        "Ability 2": "Dry Skin\nDamp (hidden ability)"
+        "Ability 2": "Dry Skin"
     },
     "47": {
         "name": "Parasect",
@@ -655,7 +655,7 @@
         "Speed": "30",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Effect Spore",
-        "Ability 2": "Dry Skin\nDamp (hidden ability)"
+        "Ability 2": "Dry Skin"
     },
     "48": {
         "name": "Venonat",
@@ -669,7 +669,7 @@
         "Speed": "45",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Compound Eyes",
-        "Ability 2": "Tinted Lens\nRun Away (hidden ability)"
+        "Ability 2": "Tinted Lens"
     },
     "49": {
         "name": "Venomoth",
@@ -683,7 +683,7 @@
         "Speed": "90",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Shield Dust",
-        "Ability 2": "Tinted Lens\nWonder Skin (hidden ability)"
+        "Ability 2": "Tinted Lens"
     },
     "50": {
         "name": "Diglett",
@@ -697,7 +697,7 @@
         "Speed": "95",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Sand Veil",
-        "Ability 2": "Arena Trap\nSand Force (hidden ability)"
+        "Ability 2": "Arena Trap"
     },
     "51": {
         "name": "Dugtrio",
@@ -711,7 +711,7 @@
         "Speed": "120",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Sand Veil",
-        "Ability 2": "Arena Trap\nSand Force (hidden ability)"
+        "Ability 2": "Arena Trap"
     },
     "52": {
         "name": "Meowth",
@@ -725,7 +725,7 @@
         "Speed": "90",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Pickup",
-        "Ability 2": "Technician\nUnnerve (hidden ability)"
+        "Ability 2": "Technician"
     },
     "53": {
         "name": "Persian",
@@ -739,7 +739,7 @@
         "Speed": "115",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Limber",
-        "Ability 2": "Technician\nUnnerve (hidden ability)"
+        "Ability 2": "Technician"
     },
     "54": {
         "name": "Psyduck",
@@ -753,7 +753,7 @@
         "Speed": "55",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Damp",
-        "Ability 2": "Cloud Nine\nSwift Swim (hidden ability)"
+        "Ability 2": "Cloud Nine"
     },
     "55": {
         "name": "Golduck",
@@ -767,7 +767,7 @@
         "Speed": "85",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Damp",
-        "Ability 2": "Cloud Nine\nSwift Swim (hidden ability)"
+        "Ability 2": "Cloud Nine"
     },
     "56": {
         "name": "Mankey",
@@ -781,7 +781,7 @@
         "Speed": "70",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Vital Spirit",
-        "Ability 2": "Anger Point\nDefiant (hidden ability)"
+        "Ability 2": "Anger Point"
     },
     "57": {
         "name": "Primeape",
@@ -795,7 +795,7 @@
         "Speed": "95",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Vital Spirit",
-        "Ability 2": "Anger Point\nDefiant (hidden ability)"
+        "Ability 2": "Anger Point"
     },
     "58": {
         "name": "Growlithe",
@@ -809,7 +809,7 @@
         "Speed": "60",
         "Male Gender Ratio": "75% male",
         "Ability 1": "Intimidate",
-        "Ability 2": "Flash Fire\nJustified (hidden ability)"
+        "Ability 2": "Flash Fire"
     },
     "59": {
         "name": "Arcanine",
@@ -823,7 +823,7 @@
         "Speed": "95",
         "Male Gender Ratio": "75% male",
         "Ability 1": "Intimidate",
-        "Ability 2": "Flash Fire\nJustified (hidden ability)"
+        "Ability 2": "Flash Fire"
     },
     "60": {
         "name": "Poliwag",
@@ -837,7 +837,7 @@
         "Speed": "90",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Water Absorb",
-        "Ability 2": "Damp\nSwift Swim (hidden ability)"
+        "Ability 2": "Damp"
     },
     "61": {
         "name": "Poliwhirl",
@@ -851,7 +851,7 @@
         "Speed": "90",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Water Absorb",
-        "Ability 2": "Damp\nSwift Swim (hidden ability)"
+        "Ability 2": "Damp"
     },
     "62": {
         "name": "Poliwrath",
@@ -865,7 +865,7 @@
         "Speed": "70",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Water Absorb",
-        "Ability 2": "Damp\nSwift Swim (hidden ability)"
+        "Ability 2": "Damp"
     },
     "63": {
         "name": "Abra",
@@ -879,7 +879,7 @@
         "Speed": "90",
         "Male Gender Ratio": "75% male",
         "Ability 1": "Synchronize",
-        "Ability 2": "Inner Focus\nMagic Guard (hidden ability)"
+        "Ability 2": "Inner Focus"
     },
     "64": {
         "name": "Kadabra",
@@ -893,7 +893,7 @@
         "Speed": "105",
         "Male Gender Ratio": "75% male",
         "Ability 1": "Synchronize",
-        "Ability 2": "Inner Focus\nMagic Guard (hidden ability)"
+        "Ability 2": "Inner Focus"
     },
     "65": {
         "name": "Alakazam",
@@ -907,7 +907,7 @@
         "Speed": "120",
         "Male Gender Ratio": "75% male",
         "Ability 1": "Synchronize",
-        "Ability 2": "Inner Focus\nMagic Guard (hidden ability)"
+        "Ability 2": "Inner Focus"
     },
     "66": {
         "name": "Machop",
@@ -921,7 +921,7 @@
         "Speed": "35",
         "Male Gender Ratio": "75% male",
         "Ability 1": "Guts",
-        "Ability 2": "No Guard\nSteadfast (hidden ability)"
+        "Ability 2": "No Guard"
     },
     "67": {
         "name": "Machoke",
@@ -935,7 +935,7 @@
         "Speed": "45",
         "Male Gender Ratio": "75% male",
         "Ability 1": "Guts",
-        "Ability 2": "No Guard\nSteadfast (hidden ability)"
+        "Ability 2": "No Guard"
     },
     "68": {
         "name": "Machamp",
@@ -949,7 +949,7 @@
         "Speed": "55",
         "Male Gender Ratio": "75% male",
         "Ability 1": "Guts",
-        "Ability 2": "No Guard\nSteadfast (hidden ability)"
+        "Ability 2": "No Guard"
     },
     "69": {
         "name": "Bellsprout",
@@ -962,8 +962,8 @@
         "Sp. Def": "30",
         "Speed": "40",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Chlorophyll\nGluttony (hidden ability)",
-        "Ability 2": "Chlorophyll\nGluttony (hidden ability)"
+        "Ability 1": "Chlorophyll",
+        "Ability 2": "Chlorophyll"
     },
     "70": {
         "name": "Weepinbell",
@@ -976,8 +976,8 @@
         "Sp. Def": "45",
         "Speed": "55",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Chlorophyll\nGluttony (hidden ability)",
-        "Ability 2": "Chlorophyll\nGluttony (hidden ability)"
+        "Ability 1": "Chlorophyll",
+        "Ability 2": "Chlorophyll"
     },
     "71": {
         "name": "Victreebel",
@@ -990,8 +990,8 @@
         "Sp. Def": "70",
         "Speed": "70",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Chlorophyll\nGluttony (hidden ability)",
-        "Ability 2": "Chlorophyll\nGluttony (hidden ability)"
+        "Ability 1": "Chlorophyll",
+        "Ability 2": "Chlorophyll"
     },
     "72": {
         "name": "Tentacool",
@@ -1005,7 +1005,7 @@
         "Speed": "70",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Clear Body",
-        "Ability 2": "Liquid Ooze\nRain Dish (hidden ability)"
+        "Ability 2": "Liquid Ooze"
     },
     "73": {
         "name": "Tentacruel",
@@ -1019,7 +1019,7 @@
         "Speed": "100",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Clear Body",
-        "Ability 2": "Liquid Ooze\nRain Dish (hidden ability)"
+        "Ability 2": "Liquid Ooze"
     },
     "74": {
         "name": "Geodude",
@@ -1033,7 +1033,7 @@
         "Speed": "20",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Rock Head",
-        "Ability 2": "Sturdy\nSand Veil (hidden ability)"
+        "Ability 2": "Sturdy"
     },
     "75": {
         "name": "Graveler",
@@ -1047,7 +1047,7 @@
         "Speed": "35",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Rock Head",
-        "Ability 2": "Sturdy\nSand Veil (hidden ability)"
+        "Ability 2": "Sturdy"
     },
     "76": {
         "name": "Golem",
@@ -1061,7 +1061,7 @@
         "Speed": "45",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Rock Head",
-        "Ability 2": "Sturdy\nSand Veil (hidden ability)"
+        "Ability 2": "Sturdy"
     },
     "77": {
         "name": "Ponyta",
@@ -1075,7 +1075,7 @@
         "Speed": "90",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Run Away",
-        "Ability 2": "Flash Fire\nFlame Body (hidden ability)"
+        "Ability 2": "Flash Fire"
     },
     "78": {
         "name": "Rapidash",
@@ -1089,7 +1089,7 @@
         "Speed": "105",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Run Away",
-        "Ability 2": "Flash Fire\nFlame Body (hidden ability)"
+        "Ability 2": "Flash Fire"
     },
     "79": {
         "name": "Slowpoke",
@@ -1103,7 +1103,7 @@
         "Speed": "15",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Oblivious",
-        "Ability 2": "Own Tempo\nRegenerator (hidden ability)"
+        "Ability 2": "Own Tempo"
     },
     "80": {
         "name": "Slowbro",
@@ -1117,7 +1117,7 @@
         "Speed": "30",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Oblivious",
-        "Ability 2": "Own Tempo\nRegenerator (hidden ability)"
+        "Ability 2": "Own Tempo"
     },
     "81": {
         "name": "Magnemite",
@@ -1131,7 +1131,7 @@
         "Speed": "45",
         "Male Gender Ratio": -1,
         "Ability 1": "Magnet Pull",
-        "Ability 2": "Sturdy\nAnalytic (hidden ability)"
+        "Ability 2": "Sturdy"
     },
     "82": {
         "name": "Magneton",
@@ -1145,7 +1145,7 @@
         "Speed": "70",
         "Male Gender Ratio": -1,
         "Ability 1": "Magnet Pull",
-        "Ability 2": "Sturdy\nAnalytic (hidden ability)"
+        "Ability 2": "Sturdy"
     },
     "83": {
         "name": "Farfetchd",
@@ -1159,7 +1159,7 @@
         "Speed": "60",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Keen Eye",
-        "Ability 2": "Inner Focus\nDefiant (hidden ability)"
+        "Ability 2": "Inner Focus"
     },
     "84": {
         "name": "Doduo",
@@ -1173,7 +1173,7 @@
         "Speed": "75",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Run Away",
-        "Ability 2": "Early Bird\nTangled Feet (hidden ability)"
+        "Ability 2": "Early Bird"
     },
     "85": {
         "name": "Dodrio",
@@ -1187,7 +1187,7 @@
         "Speed": "110",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Run Away",
-        "Ability 2": "Early Bird\nTangled Feet (hidden ability)"
+        "Ability 2": "Early Bird"
     },
     "86": {
         "name": "Seel",
@@ -1201,7 +1201,7 @@
         "Speed": "45",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Thick Fat",
-        "Ability 2": "Hydration\nIce Body (hidden ability)"
+        "Ability 2": "Hydration"
     },
     "87": {
         "name": "Dewgong",
@@ -1215,7 +1215,7 @@
         "Speed": "70",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Thick Fat",
-        "Ability 2": "Hydration\nIce Body (hidden ability)"
+        "Ability 2": "Hydration"
     },
     "88": {
         "name": "Grimer",
@@ -1229,7 +1229,7 @@
         "Speed": "25",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Stench",
-        "Ability 2": "Sticky Hold\nPoison Touch (hidden ability)"
+        "Ability 2": "Sticky Hold"
     },
     "89": {
         "name": "Muk",
@@ -1243,7 +1243,7 @@
         "Speed": "50",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Stench",
-        "Ability 2": "Sticky Hold\nPoison Touch (hidden ability)"
+        "Ability 2": "Sticky Hold"
     },
     "90": {
         "name": "Shellder",
@@ -1257,7 +1257,7 @@
         "Speed": "40",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Shell Armor",
-        "Ability 2": "Skill Link\nOvercoat (hidden ability)"
+        "Ability 2": "Skill Link"
     },
     "91": {
         "name": "Cloyster",
@@ -1271,7 +1271,7 @@
         "Speed": "70",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Shell Armor",
-        "Ability 2": "Skill Link\nOvercoat (hidden ability)"
+        "Ability 2": "Skill Link"
     },
     "92": {
         "name": "Gastly",
@@ -1327,7 +1327,7 @@
         "Speed": "70",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Rock Head",
-        "Ability 2": "Sturdy\nWeak Armor (hidden ability)"
+        "Ability 2": "Sturdy"
     },
     "96": {
         "name": "Drowzee",
@@ -1341,7 +1341,7 @@
         "Speed": "42",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Insomnia",
-        "Ability 2": "Forewarn\nInner Focus (hidden ability)"
+        "Ability 2": "Forewarn"
     },
     "97": {
         "name": "Hypno",
@@ -1355,7 +1355,7 @@
         "Speed": "67",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Insomnia",
-        "Ability 2": "Forewarn\nInner Focus (hidden ability)"
+        "Ability 2": "Forewarn"
     },
     "98": {
         "name": "Krabby",
@@ -1369,7 +1369,7 @@
         "Speed": "50",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Hyper Cutter",
-        "Ability 2": "Shell Armor\nSheer Force (hidden ability)"
+        "Ability 2": "Shell Armor"
     },
     "99": {
         "name": "Kingler",
@@ -1383,7 +1383,7 @@
         "Speed": "75",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Hyper Cutter",
-        "Ability 2": "Shell Armor\nSheer Force (hidden ability)"
+        "Ability 2": "Shell Armor"
     },
     "100": {
         "name": "Voltorb",
@@ -1397,7 +1397,7 @@
         "Speed": "100",
         "Male Gender Ratio": -1,
         "Ability 1": "Soundproof",
-        "Ability 2": "Static\nAftermath (hidden ability)"
+        "Ability 2": "Static"
     },
     "101": {
         "name": "Electrode",
@@ -1411,7 +1411,7 @@
         "Speed": "150",
         "Male Gender Ratio": -1,
         "Ability 1": "Soundproof",
-        "Ability 2": "Static\nAftermath (hidden ability)"
+        "Ability 2": "Static"
     },
     "102": {
         "name": "Exeggcute",
@@ -1424,8 +1424,8 @@
         "Sp. Def": "45",
         "Speed": "40",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Chlorophyll\nHarvest (hidden ability)",
-        "Ability 2": "Chlorophyll\nHarvest (hidden ability)"
+        "Ability 1": "Chlorophyll",
+        "Ability 2": "Chlorophyll"
     },
     "103": {
         "name": "Exeggutor",
@@ -1438,8 +1438,8 @@
         "Sp. Def": "75",
         "Speed": "55",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Chlorophyll\nHarvest (hidden ability)",
-        "Ability 2": "Chlorophyll\nHarvest (hidden ability)"
+        "Ability 1": "Chlorophyll",
+        "Ability 2": "Chlorophyll"
     },
     "104": {
         "name": "Cubone",
@@ -1453,7 +1453,7 @@
         "Speed": "35",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Rock Head",
-        "Ability 2": "Lightning Rod\nBattle Armor (hidden ability)"
+        "Ability 2": "Lightning Rod"
     },
     "105": {
         "name": "Marowak",
@@ -1467,7 +1467,7 @@
         "Speed": "45",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Rock Head",
-        "Ability 2": "Lightning Rod\nBattle Armor (hidden ability)"
+        "Ability 2": "Lightning Rod"
     },
     "106": {
         "name": "Hitmonlee",
@@ -1481,7 +1481,7 @@
         "Speed": "87",
         "Male Gender Ratio": "100% male",
         "Ability 1": "Limber",
-        "Ability 2": "Reckless\nUnburden (hidden ability)"
+        "Ability 2": "Reckless"
     },
     "107": {
         "name": "Hitmonchan",
@@ -1495,7 +1495,7 @@
         "Speed": "76",
         "Male Gender Ratio": "100% male",
         "Ability 1": "Keen Eye",
-        "Ability 2": "Iron Fist\nInner Focus (hidden ability)"
+        "Ability 2": "Iron Fist"
     },
     "108": {
         "name": "Lickitung",
@@ -1509,7 +1509,7 @@
         "Speed": "30",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Own Tempo",
-        "Ability 2": "Oblivious\nCloud Nine (hidden ability)"
+        "Ability 2": "Oblivious"
     },
     "109": {
         "name": "Koffing",
@@ -1523,7 +1523,7 @@
         "Speed": "35",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Levitate",
-        "Ability 2": "Neutralizing Gas\nStench (hidden ability)"
+        "Ability 2": "Neutralizing Gas"
     },
     "110": {
         "name": "Weezing",
@@ -1537,7 +1537,7 @@
         "Speed": "60",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Levitate",
-        "Ability 2": "Neutralizing Gas\nStench (hidden ability)"
+        "Ability 2": "Neutralizing Gas"
     },
     "111": {
         "name": "Rhyhorn",
@@ -1551,7 +1551,7 @@
         "Speed": "25",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Lightning Rod",
-        "Ability 2": "Rock Head\nReckless (hidden ability)"
+        "Ability 2": "Rock Head"
     },
     "112": {
         "name": "Rhydon",
@@ -1565,7 +1565,7 @@
         "Speed": "40",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Lightning Rod",
-        "Ability 2": "Rock Head\nReckless (hidden ability)"
+        "Ability 2": "Rock Head"
     },
     "113": {
         "name": "Chansey",
@@ -1579,7 +1579,7 @@
         "Speed": "50",
         "Male Gender Ratio": "0% male",
         "Ability 1": "Natural Cure",
-        "Ability 2": "Serene Grace\nHealer (hidden ability)"
+        "Ability 2": "Serene Grace"
     },
     "114": {
         "name": "Tangela",
@@ -1593,7 +1593,7 @@
         "Speed": "60",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Chlorophyll",
-        "Ability 2": "Leaf Guard\nRegenerator (hidden ability)"
+        "Ability 2": "Leaf Guard"
     },
     "115": {
         "name": "Kangaskhan",
@@ -1607,7 +1607,7 @@
         "Speed": "90",
         "Male Gender Ratio": "0% male",
         "Ability 1": "Early Bird",
-        "Ability 2": "Scrappy\nInner Focus (hidden ability)"
+        "Ability 2": "Scrappy"
     },
     "116": {
         "name": "Horsea",
@@ -1621,7 +1621,7 @@
         "Speed": "60",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Swift Swim",
-        "Ability 2": "Sniper\nDamp (hidden ability)"
+        "Ability 2": "Sniper"
     },
     "117": {
         "name": "Seadra",
@@ -1635,7 +1635,7 @@
         "Speed": "85",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Poison Point",
-        "Ability 2": "Sniper\nDamp (hidden ability)"
+        "Ability 2": "Sniper"
     },
     "118": {
         "name": "Goldeen",
@@ -1649,7 +1649,7 @@
         "Speed": "63",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Swift Swim",
-        "Ability 2": "Water Veil\nLightning Rod (hidden ability)"
+        "Ability 2": "Water Veil"
     },
     "119": {
         "name": "Seaking",
@@ -1663,7 +1663,7 @@
         "Speed": "68",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Swift Swim",
-        "Ability 2": "Water Veil\nLightning Rod (hidden ability)"
+        "Ability 2": "Water Veil"
     },
     "120": {
         "name": "Staryu",
@@ -1677,7 +1677,7 @@
         "Speed": "85",
         "Male Gender Ratio": -1,
         "Ability 1": "Illuminate",
-        "Ability 2": "Natural Cure\nAnalytic (hidden ability)"
+        "Ability 2": "Natural Cure"
     },
     "121": {
         "name": "Starmie",
@@ -1691,7 +1691,7 @@
         "Speed": "115",
         "Male Gender Ratio": -1,
         "Ability 1": "Illuminate",
-        "Ability 2": "Natural Cure\nAnalytic (hidden ability)"
+        "Ability 2": "Natural Cure"
     },
     "122": {
         "name": "Mr-mime",
@@ -1705,7 +1705,7 @@
         "Speed": "90",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Soundproof",
-        "Ability 2": "Filter\nTechnician (hidden ability)"
+        "Ability 2": "Filter"
     },
     "123": {
         "name": "Scyther",
@@ -1719,7 +1719,7 @@
         "Speed": "105",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Swarm",
-        "Ability 2": "Technician\nSteadfast (hidden ability)"
+        "Ability 2": "Technician"
     },
     "124": {
         "name": "Jynx",
@@ -1733,7 +1733,7 @@
         "Speed": "95",
         "Male Gender Ratio": "0% male",
         "Ability 1": "Oblivious",
-        "Ability 2": "Forewarn\nDry Skin (hidden ability)"
+        "Ability 2": "Forewarn"
     },
     "125": {
         "name": "Electabuzz",
@@ -1746,8 +1746,8 @@
         "Sp. Def": "85",
         "Speed": "105",
         "Male Gender Ratio": "75% male",
-        "Ability 1": "Static\nVital Spirit (hidden ability)",
-        "Ability 2": "Static\nVital Spirit (hidden ability)"
+        "Ability 1": "Static",
+        "Ability 2": "Static"
     },
     "126": {
         "name": "Magmar",
@@ -1760,8 +1760,8 @@
         "Sp. Def": "85",
         "Speed": "93",
         "Male Gender Ratio": "75% male",
-        "Ability 1": "Flame Body\nVital Spirit (hidden ability)",
-        "Ability 2": "Flame Body\nVital Spirit (hidden ability)"
+        "Ability 1": "Flame Body",
+        "Ability 2": "Flame Body"
     },
     "127": {
         "name": "Pinsir",
@@ -1775,7 +1775,7 @@
         "Speed": "85",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Hyper Cutter",
-        "Ability 2": "Mold Breaker\nMoxie (hidden ability)"
+        "Ability 2": "Mold Breaker"
     },
     "128": {
         "name": "Tauros",
@@ -1789,7 +1789,7 @@
         "Speed": "110",
         "Male Gender Ratio": "100% male",
         "Ability 1": "Intimidate",
-        "Ability 2": "Anger Point\nSheer Force (hidden ability)"
+        "Ability 2": "Anger Point"
     },
     "129": {
         "name": "Magikarp",
@@ -1802,8 +1802,8 @@
         "Sp. Def": "20",
         "Speed": "80",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Swift Swim\nRattled (hidden ability)",
-        "Ability 2": "Swift Swim\nRattled (hidden ability)"
+        "Ability 1": "Swift Swim",
+        "Ability 2": "Swift Swim"
     },
     "130": {
         "name": "Gyarados",
@@ -1816,8 +1816,8 @@
         "Sp. Def": "100",
         "Speed": "81",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Intimidate\nMoxie (hidden ability)",
-        "Ability 2": "Intimidate\nMoxie (hidden ability)"
+        "Ability 1": "Intimidate",
+        "Ability 2": "Intimidate"
     },
     "131": {
         "name": "Lapras",
@@ -1831,7 +1831,7 @@
         "Speed": "60",
         "Male Gender Ratio": "50% male",
         "Ability 1": "Water Absorb",
-        "Ability 2": "Shell Armor\nHydration (hidden ability)"
+        "Ability 2": "Shell Armor"
     },
     "132": {
         "name": "Ditto",
@@ -1844,8 +1844,8 @@
         "Sp. Def": "48",
         "Speed": "48",
         "Male Gender Ratio": -1,
-        "Ability 1": "Limber\nImposter (hidden ability)",
-        "Ability 2": "Limber\nImposter (hidden ability)"
+        "Ability 1": "Limber",
+        "Ability 2": "Limber"
     },
     "133": {
         "name": "Eevee",
@@ -1859,7 +1859,7 @@
         "Speed": "55",
         "Male Gender Ratio": "87.5% male",
         "Ability 1": "Run Away",
-        "Ability 2": "Adaptability\nAnticipation (hidden ability)"
+        "Ability 2": "Adaptability"
     },
     "134": {
         "name": "Vaporeon",
@@ -1872,8 +1872,8 @@
         "Sp. Def": "95",
         "Speed": "65",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Water Absorb\nHydration (hidden ability)",
-        "Ability 2": "Water Absorb\nHydration (hidden ability)"
+        "Ability 1": "Water Absorb",
+        "Ability 2": "Water Absorb"
     },
     "135": {
         "name": "Jolteon",
@@ -1886,8 +1886,8 @@
         "Sp. Def": "95",
         "Speed": "130",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Volt Absorb\nQuick Feet (hidden ability)",
-        "Ability 2": "Volt Absorb\nQuick Feet (hidden ability)"
+        "Ability 1": "Volt Absorb",
+        "Ability 2": "Volt Absorb"
     },
     "136": {
         "name": "Flareon",
@@ -1900,8 +1900,8 @@
         "Sp. Def": "110",
         "Speed": "65",
         "Male Gender Ratio": "87.5% male",
-        "Ability 1": "Flash Fire\nGuts (hidden ability)",
-        "Ability 2": "Flash Fire\nGuts (hidden ability)"
+        "Ability 1": "Flash Fire",
+        "Ability 2": "Flash Fire"
     },
     "137": {
         "name": "Porygon",
@@ -1915,7 +1915,7 @@
         "Speed": "40",
         "Male Gender Ratio": -1,
         "Ability 1": "Trace",
-        "Ability 2": "Download\nAnalytic (hidden ability)"
+        "Ability 2": "Download"
     },
     "138": {
         "name": "Omanyte",
@@ -1929,7 +1929,7 @@
         "Speed": "35",
         "Male Gender Ratio": "87.5% male",
         "Ability 1": "Swift Swim",
-        "Ability 2": "Shell Armor\nWeak Armor (hidden ability)"
+        "Ability 2": "Shell Armor"
     },
     "139": {
         "name": "Omastar",
@@ -1943,7 +1943,7 @@
         "Speed": "55",
         "Male Gender Ratio": "87.5% male",
         "Ability 1": "Swift Swim",
-        "Ability 2": "Shell Armor\nWeak Armor (hidden ability)"
+        "Ability 2": "Shell Armor"
     },
     "140": {
         "name": "Kabuto",
@@ -1957,7 +1957,7 @@
         "Speed": "55",
         "Male Gender Ratio": "87.5% male",
         "Ability 1": "Swift Swim",
-        "Ability 2": "Battle Armor\nWeak Armor (hidden ability)"
+        "Ability 2": "Battle Armor"
     },
     "141": {
         "name": "Kabutops",
@@ -1971,7 +1971,7 @@
         "Speed": "80",
         "Male Gender Ratio": "87.5% male",
         "Ability 1": "Swift Swim",
-        "Ability 2": "Battle Armor\nWeak Armor (hidden ability)"
+        "Ability 2": "Battle Armor"
     },
     "142": {
         "name": "Aerodactyl",
@@ -1985,7 +1985,7 @@
         "Speed": "130",
         "Male Gender Ratio": "87.5% male",
         "Ability 1": "Rock Head",
-        "Ability 2": "Pressure\nUnnerve (hidden ability)"
+        "Ability 2": "Pressure"
     },
     "143": {
         "name": "Snorlax",
@@ -1999,7 +1999,7 @@
         "Speed": "30",
         "Male Gender Ratio": "87.5% male",
         "Ability 1": "Immunity",
-        "Ability 2": "Thick Fat\nGluttony (hidden ability)"
+        "Ability 2": "Thick Fat"
     },
     "144": {
         "name": "Articuno",
@@ -2012,8 +2012,8 @@
         "Sp. Def": "125",
         "Speed": "85",
         "Male Gender Ratio": -1,
-        "Ability 1": "Pressure\nSnow Cloak (hidden ability)",
-        "Ability 2": "Pressure\nSnow Cloak (hidden ability)"
+        "Ability 1": "Pressure",
+        "Ability 2": "Pressure"
     },
     "145": {
         "name": "Zapdos",
@@ -2026,8 +2026,8 @@
         "Sp. Def": "90",
         "Speed": "100",
         "Male Gender Ratio": -1,
-        "Ability 1": "Pressure\nStatic (hidden ability)",
-        "Ability 2": "Pressure\nStatic (hidden ability)"
+        "Ability 1": "Pressure",
+        "Ability 2": "Pressure"
     },
     "146": {
         "name": "Moltres",
@@ -2040,8 +2040,8 @@
         "Sp. Def": "85",
         "Speed": "90",
         "Male Gender Ratio": -1,
-        "Ability 1": "Pressure\nFlame Body (hidden ability)",
-        "Ability 2": "Pressure\nFlame Body (hidden ability)"
+        "Ability 1": "Pressure",
+        "Ability 2": "Pressure"
     },
     "147": {
         "name": "Dratini",
@@ -2054,8 +2054,8 @@
         "Sp. Def": "50",
         "Speed": "50",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Shed Skin\nMarvel Scale (hidden ability)",
-        "Ability 2": "Shed Skin\nMarvel Scale (hidden ability)"
+        "Ability 1": "Shed Skin",
+        "Ability 2": "Shed Skin"
     },
     "148": {
         "name": "Dragonair",
@@ -2068,8 +2068,8 @@
         "Sp. Def": "70",
         "Speed": "70",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Shed Skin\nMarvel Scale (hidden ability)",
-        "Ability 2": "Shed Skin\nMarvel Scale (hidden ability)"
+        "Ability 1": "Shed Skin",
+        "Ability 2": "Shed Skin"
     },
     "149": {
         "name": "Dragonite",
@@ -2082,8 +2082,8 @@
         "Sp. Def": "100",
         "Speed": "80",
         "Male Gender Ratio": "50% male",
-        "Ability 1": "Inner Focus\nMultiscale (hidden ability)",
-        "Ability 2": "Inner Focus\nMultiscale (hidden ability)"
+        "Ability 1": "Inner Focus",
+        "Ability 2": "Inner Focus"
     },
     "150": {
         "name": "Mewtwo",
@@ -2096,8 +2096,8 @@
         "Sp. Def": "90",
         "Speed": "130",
         "Male Gender Ratio": -1,
-        "Ability 1": "Pressure\nUnnerve (hidden ability)",
-        "Ability 2": "Pressure\nUnnerve (hidden ability)"
+        "Ability 1": "Pressure",
+        "Ability 2": "Pressure"
     },
     "151": {
         "name": "Mew",
